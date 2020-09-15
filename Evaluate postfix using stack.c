@@ -60,4 +60,5 @@ int main()
 	return 0;
 }
 
-
+//Input: 53+82-*
+//Output: 48
